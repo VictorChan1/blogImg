@@ -1,3 +1,3 @@
 # blogImg
 
-This Repository only use for save imagie
+This repository is only used to save images
